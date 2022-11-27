@@ -1,0 +1,23 @@
+.Card {
+  border: 3px #ffcb04 solid;
+  border-radius: 1rem;
+  padding: 1rem;
+  text-align: center;
+  background-color: #ffffff32;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.Card:hover {
+  opacity: 1;
+}
+
+.poke-img {
+  width: 100%;
+}
+
+h2 {
+  font-family: "Silkscreen", "Courier New", Courier, monospace;
+  font-size: 1rem;
+  font-weight: normal;
+}
