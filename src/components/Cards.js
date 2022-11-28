@@ -1,27 +1,16 @@
 import Card from "./Card";
-import pokemon from "../pokemon";
+
 import "../styles/Cards.css";
 
-function Cards() {
-  const list = pokemon
-    .map((poke) => {
-      return <Card key={poke.id} poke={poke} handleClick={handleClick} />;
-    })
-    .sort(function () {
-      return Math.random() - 0.5;
-    });
+// This is the Cards component which will call all the Card components
+// and store the list of cards in state
 
-  function handleClick(e) {
-    if (e.target.className === "poke-img") {
-      console.log(e.target.parentElement.className + " clicked");
-      e.stopPropagation();
-    } else {
-      console.log(e.target.className + " clicked");
-      e.stopPropagation();
-    }
-  }
+function Cards({ list, handleClick }) {
+  const cards = list.map((poke) => {
+    return <Card key={poke.id} poke={poke} handleClick={handleClick} />;
+  });
 
-  return <div className="Cards">{list}</div>;
+  return <div className="Cards">{cards}</div>;
 }
 
 export default Cards;

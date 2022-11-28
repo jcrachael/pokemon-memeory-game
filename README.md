@@ -10,6 +10,8 @@ Project sourced from [The Odin Project JavaScript course](https://www.theodinpro
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Pokemon images from [Bulbapedia](https://bulbapedia.bulbagarden.net/).
+
 ---
 
-Last modified: 27 November 2022
+Last modified: 28 November 2022
