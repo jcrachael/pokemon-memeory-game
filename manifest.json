@@ -1,0 +1,7 @@
+{
+  "short_name": "Memory Game",
+  "name": "Pokemon Memory Game",
+
+  "start_url": ".",
+  "display": "standalone"
+}

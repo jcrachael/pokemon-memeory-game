@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokemon-memory-game/static/css/main.81f83e81.css",
+    "main.js": "/pokemon-memory-game/static/js/main.482403df.js",
+    "static/media/bulbasaur.png": "/pokemon-memory-game/static/media/bulbasaur.7a945f7f3a4fcc6a7776.png",
+    "static/media/gastly.png": "/pokemon-memory-game/static/media/gastly.42106f658fbfcf4157f7.png",
+    "static/media/diglett.png": "/pokemon-memory-game/static/media/diglett.81af9f95195fd804e64f.png",
+    "static/media/pidgey.png": "/pokemon-memory-game/static/media/pidgey.53f1b2649c6be33a3a62.png",
+    "static/media/jigglypuff.png": "/pokemon-memory-game/static/media/jigglypuff.2fe018134152a4de3763.png",
+    "static/media/squirtle.png": "/pokemon-memory-game/static/media/squirtle.711f6d662796bcb35031.png",
+    "static/media/machop.png": "/pokemon-memory-game/static/media/machop.75305261c62e59036389.png",
+    "static/media/drowzee.png": "/pokemon-memory-game/static/media/drowzee.3f330c338b7dcf4e5aa1.png",
+    "static/media/charmander.png": "/pokemon-memory-game/static/media/charmander.f69b78a1011db92fd1c3.png",
+    "static/media/pikachu.png": "/pokemon-memory-game/static/media/pikachu.413f30b94372a78aacb4.png",
+    "static/media/dratini.png": "/pokemon-memory-game/static/media/dratini.0e5e786f7fc5e2d98283.png",
+    "static/media/geodude.png": "/pokemon-memory-game/static/media/geodude.2ef6c4a6060a47c56f9f.png",
+    "index.html": "/pokemon-memory-game/index.html",
+    "main.81f83e81.css.map": "/pokemon-memory-game/static/css/main.81f83e81.css.map",
+    "main.482403df.js.map": "/pokemon-memory-game/static/js/main.482403df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f83e81.css",
+    "static/js/main.482403df.js"
+  ]
+}
