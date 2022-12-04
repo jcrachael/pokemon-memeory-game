@@ -2,11 +2,11 @@ import Instructions from "./Instructions";
 import Scores from "./Scores";
 import "../styles/Info.css";
 
-function Info() {
+function Info({ current, best, getBestScore }) {
   return (
     <section className="Info">
       <Instructions />
-      <Scores />
+      <Scores current={current} best={best} getBestScore={getBestScore} />
     </section>
   );
 }

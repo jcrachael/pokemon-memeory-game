@@ -1,10 +1,10 @@
 # Pokemon Memory Game
 
-Live demo coming soon.
+[Play here](https://jcrachael.github.io/pokemon-memory-game/)!
 
 ## About
 
-A Pokemon-based memory card game built using React.js.
+A Pokemon-based memory card game built using React.js. Can you catch all 12 Pokemon without clicking any card twice?
 
 Project sourced from [The Odin Project JavaScript course](https://www.theodinproject.com/lessons/node-path-javascript-memory-card).
 
@@ -14,4 +14,4 @@ Pokemon images from [Bulbapedia](https://bulbapedia.bulbagarden.net/).
 
 ---
 
-Last modified: 28 November 2022
+Last modified: 4 December 2022

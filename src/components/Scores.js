@@ -1,12 +1,14 @@
-function Scores() {
+function Scores({ current, best, getBestScore }) {
   return (
     <div className="Scores">
       <h3>Pokémon caught:</h3>
       <p>
-        <span className="label">Current:</span> <span className="score">0</span>
+        <span className="label">Current:</span>{" "}
+        <span className="score">{current}</span>
       </p>
       <p>
-        <span className="label">Best:</span> <span className="score">0</span>
+        <span className="label">Best:</span>{" "}
+        <span className="score">{getBestScore()}</span>
       </p>
     </div>
   );
